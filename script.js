@@ -44,6 +44,16 @@ const locations = [
   }
 ];
 
+const weapons = [
+  {
+    name: "stick",
+    power: 5,
+    "dagger": 30,
+    "claw hammer": 50,
+    "sword": 100
+  }
+
+];
 
 function update(location) {
   button1.innerText = location["button text"][0];
