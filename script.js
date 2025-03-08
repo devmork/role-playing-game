@@ -48,9 +48,18 @@ const weapons = [
   {
     name: "stick",
     power: 5,
-    "dagger": 30,
-    "claw hammer": 50,
-    "sword": 100
+  },
+  {
+    name: "dagger",
+    power: 30
+  },
+  {
+    name: "claw hammer",
+    power: 50
+  },
+  {
+    name: "sword",
+    power: 100
   }
 
 ];
